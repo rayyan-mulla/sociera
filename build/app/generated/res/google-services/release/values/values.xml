@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">435434560830-8498q39ec7fp209qkq8hnnsrid08kg98.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">435434560830</string>
+    <string name="google_api_key" translatable="false">AIzaSyDz4LqgUwGTVyj1OIwz6OmOhGrwWSzWZ2A</string>
+    <string name="google_app_id" translatable="false">1:435434560830:android:d58edba59253f23165e06f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDz4LqgUwGTVyj1OIwz6OmOhGrwWSzWZ2A</string>
+    <string name="google_storage_bucket" translatable="false">sociera-996ce.appspot.com</string>
+    <string name="project_id" translatable="false">sociera-996ce</string>
+</resources>

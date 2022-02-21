@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "435434560830",
+    "project_id": "sociera-996ce",
+    "storage_bucket": "sociera-996ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435434560830:android:d58edba59253f23165e06f",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435434560830-nbe95ilgdrdkh3b8n622mumqum8356vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_media_app",
+            "certificate_hash": "27a01092c322a5bed93ff80c0547c1abf3718bfe"
+          }
+        },
+        {
+          "client_id": "435434560830-8498q39ec7fp209qkq8hnnsrid08kg98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz4LqgUwGTVyj1OIwz6OmOhGrwWSzWZ2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435434560830-8498q39ec7fp209qkq8hnnsrid08kg98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
